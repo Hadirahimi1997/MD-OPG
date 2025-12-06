@@ -1,6 +1,7 @@
 # Detection of Pediatric Dental Caries in Panoramic Radiographs Using Artificial Intelligence: A Benchmark Study on MD-OPG
 
 **Authors**: 
+
 Rahimi, Hadi
  
 seyed mohammadrasoul naeimi
