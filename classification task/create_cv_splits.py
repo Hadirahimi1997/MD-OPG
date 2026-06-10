@@ -5,10 +5,10 @@ import numpy as np
 # DATASET PATHS (EDIT IF NEEDED)
 # ==============================
 
-img_dir = r"/home/workspace/MDPI/MD_OPG/MD_OPG/OPG_Image/"
-mask_dir = r"/home/workspace/MDPI/MD_OPG/MD_OPG/OPG_Annotation/"
+img_dir = r"/home/..../MD_OPG/OPG_Image/"
+mask_dir = r"/home/..../MD_OPG/OPG_Annotation/"
 
-save_dir = r"/home/workspace/MDPI/splits"
+save_dir = r"/home/..../splits"
 
 # ==============================
 # SETTINGS
