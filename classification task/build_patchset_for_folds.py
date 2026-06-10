@@ -1,3 +1,7 @@
+
+####################################
+#This code corresponds to making a 5-group (train_val pair) 64*64 patchset 
+####################################
 import os
 import json
 import numpy as np
