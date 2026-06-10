@@ -1,3 +1,7 @@
+####################################
+# This code corresponds to splitting data for "5_fold_CV" based on patient-level splitting.
+####################################
+
 import os
 import numpy as np
 
